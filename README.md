@@ -1,2 +1,2 @@
 # Circles
-Patatap "clone".
+Just press a letter key and see what happens...
